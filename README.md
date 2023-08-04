@@ -1,4 +1,4 @@
-# Progetto-API-2022
+# Prova Finale di Algoritmi e Strutture Dati - a.a. 2021-2022
 PoliMi API Project AA 2021-2022 - <a href="https://github.com/TheFedelino01/Progetto-API-2022/blob/main/ProvaFinale2022_tema.pdf">WordChecker</a> <br>
 Autore: Saccani Federico
 
