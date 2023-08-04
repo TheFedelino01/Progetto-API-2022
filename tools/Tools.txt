@@ -1,0 +1,8 @@
+VEDERE ERRORI GESTIONE DELLA MEMORIA:
+gcc -DDEBUG -fno-omit-frame-pointer -fsanitize=undefined -fsanitize=address -g main.c
+./a.out < ./test/test3.txt
+
+VALGRIND VEDERE DOVE E' ALLOCATA LA MEMORIA:
+gcc -g main.c
+valgrind --tool=massif ./a.out < ./test/test3.txt > output.txt
+ms_print massif.out.XXXXX

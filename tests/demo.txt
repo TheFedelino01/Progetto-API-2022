@@ -1,0 +1,7 @@
+3
+aaa
+bcc
++nuova_partita
+aaa
+1
+bcc
